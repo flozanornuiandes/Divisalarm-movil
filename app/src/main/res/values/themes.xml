@@ -1,0 +1,5 @@
+<resources>
+    <!-- Tema base para la Activity; el theming real de la UI vive en
+         ui/theme/Theme.kt (Material 3 con los tokens de DivisAlarm). -->
+    <style name="Theme.DivisAlarm" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
